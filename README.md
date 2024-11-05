@@ -16,4 +16,5 @@ My graduate senior project, a simple driver application to manage deliveries and
 
 
 ### Note
-API keys are revoked
+- Project slides and poster included
+- API keys are revoked
