@@ -1,2 +1,19 @@
 # RouteSense-Driver-App
-My graduate senior project, an driver application to manage deliveries and routes
+My graduate senior project, a simple driver application to manage deliveries and routes
+
+
+## Getting Started
+- [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/) configured
+- Run and use driver email
+
+
+## Features
+- [Google map](https://developers.google.com/maps)
+- Ability to see deliveries
+- Real time database changes
+- Profile and Car+
+
+
+
+### Note
+API keys are revoked
