@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDxpRn36nKI7PmySvKdWKGkCJoU51z2uxY',
+    apiKey: 'X',
     appId: '1:464569805927:android:1b237f7369d95d0e9cb8c2',
     messagingSenderId: '464569805927',
     projectId: 'routesense-80460',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAyJByh6besdCDNfd14TbLnlHHvVDuYJLY',
+    apiKey: 'X',
     appId: '1:464569805927:ios:e7b1068b5bbff0f89cb8c2',
     messagingSenderId: '464569805927',
     projectId: 'routesense-80460',
